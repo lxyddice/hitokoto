@@ -1,6 +1,6 @@
 # hitokoto
 
-基于![https://github.com/hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle)
+基于[https://github.com/hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle)
 的php版，快速部署
 
 支持输出json和一言纯文本
